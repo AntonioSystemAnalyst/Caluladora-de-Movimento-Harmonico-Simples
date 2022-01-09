@@ -1,0 +1,16 @@
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\bin\Debug\M.H.S_Full_2.0.exe.config
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\bin\Debug\M.H.S_Full_2.0.exe
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\bin\Debug\M.H.S_Full_2.0.pdb
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Properties.Resources.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2.0.csproj.GenerateResource.cache
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2.0.exe
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2.0.pdb
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Elongação.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Main_MHS.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2.0.csprojResolveAssemblyReference.cache
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Aceleração.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Energia.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Geral.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Velocidade.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Informações.resources
+C:\Users\Orphew\Desktop\M.H.S_Full_2.0\M.H.S_Full_2.0\obj\Debug\M.H.S_Full_2._0.Works.resources
